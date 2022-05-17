@@ -1,0 +1,2 @@
+DATABASE_URL=postgres://ekrxaqcf:wTxlTPT2GoMPZsyXUyjOcQsoQLPS-Sel@tyke.db.elephantsql.com/ekrxaqcf
+JWT_SECRET=jwtsecrit
