@@ -6,7 +6,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * Registration system with reset password
 * Add new task
 * add image in the task
-* Mark task as completed / in progress / created
+* Mark button as completed / in progress / created
 * Pick a date from callendar
 * Edit task
 * Delete single task
